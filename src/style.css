@@ -1,0 +1,65 @@
+#title {
+    font-family: 'Libre Baskervills', serif;
+}
+
+#quote {
+    font-family: 'Libre Baskervills', serif;
+    font-size: 2.5em;
+}
+
+#quote-div {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#status-div {
+    margin-top: 20px;
+}
+
+#status {
+    font-size: 28px;
+    font-family: 'Libre Baskervills', serif;
+}
+
+#count-area {
+    margin-bottom: 40px;
+    /* margin-left: 20%; */
+    /* margin-right: 20%; */
+    font-size: 5em;
+    height: 300px;
+    width: 250px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#increment, #decrement, #view-count {
+    font-family: 'Libre Baskervills', serif;
+    font-size: 20px;
+}
+
+
+
+hr
+{
+    background-color: #343a40;
+    border: 0 none;
+    color: #343a40;
+    border: solid 2px #343a40;
+}
+
+html, body {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+.navbar-brand {
+    text-align: center;
+    width: 100%;
+}
+
+.container-fluid {
+    padding: 0 !important;
+}

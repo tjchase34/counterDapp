@@ -1,0 +1,23 @@
+{
+  "name": "counterdapp",
+  "version": "1.0.0",
+  "description": "Basic implementation of a front end framework for a Solidity smart contract built for the Ethereum blockchain.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjchase34/counterDapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjchase34/counterDapp/issues"
+  },
+  "homepage": "https://github.com/tjchase34/counterDapp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
